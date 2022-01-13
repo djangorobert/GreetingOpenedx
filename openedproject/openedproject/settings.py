@@ -26,10 +26,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 #As you know in Production we would use apps like django-environ and you would not keep the key here but
-#in order to make these seamless for anyone who wants to clone the repo on there own desktop (PC) I left it 
+#in order to make this seamless for anyone who wants to clone the repo on there own desktop (PC) I left it 
 #here.
 SECRET_KEY = 'django-insecure-=kpcyx%39$zqja)0b8=9z2j&kkl&1gyhlhng_8=)@ptyg-8n=t'
 # SECURITY WARNING: don't run with debug turned on in production!
+#The Sam here usualy you would use django-environ here but since this is for educational purposes I kept
+#it with True.
 DEBUG = TRUE
 
 ALLOWED_HOSTS = []
