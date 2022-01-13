@@ -28,7 +28,7 @@ at the top header tab. I also added in a API with read only privelages. The Goal
 extra apps that could be features or add ons. 
 
 
-Here is the Finished Product Images of the Landing page(Home page), Extra API , and the Django Admin.
+Here is the Finished Product Images of the Landing page(Home page), Built the API to provide a different endpoint to be consumed by a Frontend Framework like React but make sure if your going to do so to install the package django-cors-headers to allow django and react to work together. I alos added in the pics of the Django built in Admin.
 ![Alt text](openedx1.JPG?raw=true)
 ![Alt text](openedx2.JPG?raw=true)
 ![Alt text](openedx3.JPG?raw=true)
