@@ -5,13 +5,13 @@ I used tutor to download openedx platform.
 
 Steps to get this project to work on your own PC:
 
-Do this in your command prompt: mkdir (projectname)
-cd (projectname)
-git clone <repo>
-cd Greetingopenedx
-pipenv install -r requirements.txt
-cd openedproject
-python manage.py runserver
+1.Do this in your command prompt: mkdir (projectname)
+2.cd (projectname)
+3.git clone <repo>
+4.cd Greetingopenedx
+5.pipenv install -r requirements.txt
+6.cd openedproject
+7.python manage.py runserver
 
 A django InterView Project that adds a Django Greeting App and API.
 
