@@ -26,3 +26,13 @@ next step first which is step (8) because you need the Server running first ;).
 A Project that Includes OpenEdx Platform and a Django Application that Adds Greetings and orders them from newest to oldest. Also shows the newest greeting 
 at the top header tab. I also added in a API with read only privelages. The Goal of this project was to install Openedx platform and yet still have the ability to add on 
 extra apps that could be features or add ons. 
+
+
+Here is the Finished Product Images of the Landing page(Home page), Extra API , and the Django Admin.
+![Alt text](openedx1.JPG?raw=true)
+![Alt text](openedx2.JPG?raw=true)
+![Alt text](openedx3.JPG?raw=true)
+![Alt text](openedx4.JPG?raw=true)
+![Alt text](openedx5.JPG?raw=true)
+![Alt text](openedx6.JPG?raw=true)
+![Alt text](openedx7.JPG?raw=true)
